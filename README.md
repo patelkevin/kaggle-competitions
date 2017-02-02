@@ -12,7 +12,7 @@
 	Pandas.
 	OpenCV
 
-# For every script there are two versions -->
+## For every script there are two versions -->
 	1. Full model scripts to run on local/personal machine --> " _fm "
 	2. Limited model scripts capable of running on kaggle kernels (since kaggle servers are timed-out after 20minutes) --> " _lm "
 

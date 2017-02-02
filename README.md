@@ -15,8 +15,6 @@
 # For every script there are two versions -->
 	1. Full model scripts to run on local/personal machine --> " _fm "
 	2. Limited model scripts capable of running on kaggle kernels (since kaggle servers are timed-out after 20minutes) --> " _lm "
-	
-# Most of these scripts have been executed on a GPU enabled laptop and have also been tested on the kaggle kernels (servers).
 
 ## Competition 1 -> Level Beginner.
 	Digit Recognizer --> MNIST
@@ -40,4 +38,6 @@
 ## Competition 5 -> Level Difficult.
 	Data Science Bowl 2017 --> Lung Cancer detection.
 		- The most challenging part for this is the pre-processing due to the heterogeneous nature of the data.
-		- Here we are predicting whether a CT scan is of a patient who either has or will develop cancer within the next 12 months       or not.
+		- Here we are predicting whether a CT scan is of a patient who either has or will develop cancer within the next 12 months or not.
+
+* Note --> Most of these scripts have been executed on a GPU enabled laptop and have also been tested on the kaggle kernels (servers).
